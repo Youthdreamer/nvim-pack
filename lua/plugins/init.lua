@@ -39,5 +39,6 @@ require("plugins.editor")
 require("plugins.lsp")
 require("plugins.ui")
 require("plugins.utils")
+require("plugins.nvim")
 
 return M

@@ -60,6 +60,7 @@ vim.api.nvim_create_autocmd("User", {
       { "<leader>w", group = "窗口操作", icon = "" },
       { "<leader><tab>", group = "标签栏", icon = "󰓩" },
       { "<leader>o", group = "专注面板", icon = "" },
+      { "<leader>u", group = "Undotree", icon = "󰕌" },
       { "<leader>l", group = "项目相关" },
     })
 
