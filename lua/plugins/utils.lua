@@ -100,7 +100,3 @@ map("n", "S", function()
   hop.setup()
   hop.hint_words()
 end)
-
--- require('hop').setup()
--- map('n', 's', '<cmd>HopChar2<cr>')
--- map('n', 'S', '<cmd>HopWord<cr>')

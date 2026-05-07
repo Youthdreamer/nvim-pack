@@ -4,4 +4,5 @@ require('vim._core.ui2').enable({
 require("core.autocmd")
 require("core.basic")
 require("core.keymap")
+require("core.command")
 require("plugins")
