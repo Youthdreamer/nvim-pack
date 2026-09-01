@@ -16,6 +16,10 @@
       "rev": "2e29d5f233defe3c5587df0e4dd29af2bd95a5a7",
       "src": "https://github.com/ibhagwan/fzf-lua"
     },
+    "gitsigns.nvim": {
+      "rev": "5be654f2232c10ddcad19c1607a67b6b4b78fc29",
+      "src": "https://github.com/lewis6991/gitsigns.nvim"
+    },
     "hop.nvim": {
       "rev": "707049feaca9ae65abb3696eff9aefc7879e66aa",
       "src": "https://github.com/smoka7/hop.nvim"
@@ -37,7 +41,7 @@
       "src": "https://github.com/nvim-tree/nvim-web-devicons"
     },
     "obsess": {
-      "rev": "5186cb36ff35626db44180479d0fdf7e059c7292",
+      "rev": "b19e9d20fe43dd309ff5c5c8721e492e1e424dd1",
       "src": "https://github.com/Youthdreamer/obsess"
     },
     "oil.nvim": {
