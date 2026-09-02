@@ -74,7 +74,7 @@ vim.api.nvim_create_autocmd("User", {
 
 		-- obsess
 		require("obsess").setup({
-			marker = { { "test.t" }, ".git" },
+			marker = { ".git" },
 			position = "top-right",
 			window = {
 				width = 30,
